@@ -251,3 +251,4 @@ The ADC value, darkness percentage, and streetlight status are also transmitted 
 ## Result
 
 Thus, the **Automatic Street Lighting System using STM32 Nucleo-L031K6** was designed and implemented successfully. The streetlight automatically switches **ON during dark conditions** and **OFF during bright conditions** based on the simulated light-sensor input.
+
