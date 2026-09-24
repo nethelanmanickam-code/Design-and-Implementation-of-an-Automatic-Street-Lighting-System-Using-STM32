@@ -50,7 +50,7 @@ Two separate threshold values are used to prevent frequent switching of the stre
 
 ---
 
-## Block Diagram
+##  Block Diagram
 
 ~~~text
         Potentiometer
